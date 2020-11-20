@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I am Grégoire Laget 🇫🇷
 
+I am a 22yo student at ESEO Angers, a french engineering school 🎓
 <!--
 **GregoireLgt/GregoireLgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
